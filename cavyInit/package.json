@@ -10,7 +10,11 @@
 		"react": "16.0.0-alpha.12",
 		"react-native": "0.47.1",
 		"react-native-router-flux": "*",
-		"cavy": "*"
+		"cavy": "*",
+		"redux": "3.6.0",
+		"react-redux": "*",
+		"redux-thunk": "*",
+		"redux-logger": "*"
 	},
 	"devDependencies": {
 		"babel-jest": "20.0.3",
